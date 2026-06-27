@@ -7,7 +7,7 @@
   <b>Abhishekagouda Naganagouda Patil</b>
 </h1>
 
-<h3 align="center">
+<h3 align="center"> 
 🎓 B.Tech Computer Science (Data Science)
 </h3>
 
