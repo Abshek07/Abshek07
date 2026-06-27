@@ -2,7 +2,7 @@
 <!--                       HERO SECTION                         -->
 <!-- ========================================================= -->
 <div align="center">
-<img src="https://github.com/Abshek07/Abshek07/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+<img src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/octo.gif" width="150">
 </div>
 # Welcome To My GitHub Profile !
 <br/>
