@@ -201,9 +201,19 @@ I enjoy solving real-world problems through practical projects while continuousl
 <br>
 <h1 align="center">🌐 Connect With Me</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/coderman.gif"
-       width="420"
-       alt="Coder"/>
+
+☕ <b>I don't have a Buy Me a Coffee page.</b>
+
+If my work inspires you or you'd like to discuss AI, Data Science, or technology,
+
+<b>let's meet someday and have a real coffee instead.</b>
+
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/connected.gif"
+       width="380"
+       alt="Connected"/>
 </p>
 
 <p align="center">
@@ -224,24 +234,6 @@ I enjoy solving real-world problems through practical projects while continuousl
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
-
-<p align="center">
-
-☕ <b>I don't have a Buy Me a Coffee page.</b>
-
-If my work inspires you or you'd like to discuss AI, Data Science, or technology,
-
-<b>let's meet someday and have a real coffee instead.</b>
-
-</p>
-
-<h1 align="center">🌐 Connect With Me</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/connected.gif"
-       width="380"
-       alt="Connected"/>
 </p>
 <!-- Decorative Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
