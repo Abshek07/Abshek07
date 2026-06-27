@@ -34,11 +34,6 @@ Abhishekagouda Naganagouda Patil
 
 ---
 
-<table>
-<tr>
-
-<td width="65%" valign="top">
-
 <h2 align="center">
 <img src="https://img.icons8.com/fluency/30/user-male-circle.png" width="28"/>
 About Me
@@ -109,11 +104,6 @@ I enjoy solving real-world problems through practical projects while continuousl
 
 <br>
 ---
-</td>
-
-</tr>
-
-</table>
 ---
 <!-- ========================================================= -->
 <!--                  GITHUB STATISTICS                        -->
