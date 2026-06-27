@@ -56,50 +56,43 @@ I enjoy solving real-world problems through practical projects while continuousl
 - 💼 Data Science Internship
 - 🤝 Open Source Collaboration
 - 🚀 AI & ML Projects
----
-<h2 align="center">🛠 Tech Stack</h2>
+---<!-- ═══════════════════════════════ TECH STACK ═══════════════════════════════ -->
 
-<table align="center">
-<tr>
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
+    &nbsp;Tech Stack & Tools
+  </h2>
+</div>
 
-<td align="center" valign="top">
+<div align="center">
 
-<h4>💻 Programming</h4>
+### 👩‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,html,css,mysql" />
 
-</td>
+<br><br>
 
-<td align="center" valign="top">
+### 🧠 Data Science & ML
 
-<h4>🌐 Frontend</h4>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn,tensorflow,jupyter,matplotlib" />
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" />
+<br><br>
 
-</td>
+### 🌐 Web Development
 
-<td align="center" valign="top">
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,mongodb,postgres" />
 
-<h4>🗄️ Database & Cloud</h4>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=mysql,aws" />
+### 🛠️ Tools & Platforms
 
-</td>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,aws" />
 
-<td align="center" valign="top">
+</div>
 
-<h4>🛠️ Tools</h4>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
-
-</td>
-
-<td align="center" valign="top">
-
-<h4>📊 Data Science</h4>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,sklearn,powerbi" />
-
+<!-- Decorative Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </td>
 
 </tr>
