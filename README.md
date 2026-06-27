@@ -212,3 +212,84 @@ I enjoy solving real-world problems through practical projects while continuousl
 </table>
 
 ---
+<!-- ========================================================= -->
+<!--                     GITHUB STATISTICS                     -->
+<!-- ========================================================= -->
+
+<h1 align="center">📊 GitHub Statistics</h1>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abshek07&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abshek07&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <i>Consistency beats intensity. Every project is another step forward.</i>
+</p>
+
+---
+<!-- ========================================================= -->
+<!--                    CONNECT WITH ME                        -->
+<!-- ========================================================= -->
+
+<h1 align="center">🌐 Connect With Me</h1>
+
+<p align="center">
+
+<a href="https://portfolioabhi-brown.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Abshek07" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhishek1407patil/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:itsvgh@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+<!-- ========================================================= -->
+<!--                    LET'S CONNECT                          -->
+<!-- ========================================================= -->
+
+<h1 align="center">☕ Let's Connect</h1>
+
+<p align="center">
+
+I don't have a **Buy Me a Coffee** page.
+
+If my projects interest you, or you'd like to discuss Data Science, AI, Open Source, or technology in general...
+
+<b>Let's meet someday and have a real coffee instead.</b> ☕
+
+</p>
+
+---
+<!-- ========================================================= -->
+<!--                          FOOTER                           -->
+<!-- ========================================================= -->
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=120&section=footer"/>
+
+</p>
+
+<h3 align="center">
+
+⭐ Thanks for visiting my GitHub Profile ⭐
+
+</h3>
+
+<p align="center">
+
+<i>"Turning data into meaningful insights and ideas into impactful software."</i>
+
+</p>
