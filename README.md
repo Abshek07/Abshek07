@@ -30,9 +30,6 @@ Abhishekagouda Naganagouda Patil
 <img src="https://komarev.com/ghpvc/?username=Abshek07&label=Profile%20Views&color=22C55E&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/Abshek07?logo=github&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/Abshek07?affiliations=OWNER&style=for-the-badge"/>
-
 </p>
 
 ---
