@@ -24,6 +24,8 @@ Abhishekagouda Naganagouda Patil
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Turning+Data+into+Meaningful+Insights;Building+Machine+Learning+Projects;Creating+Modern+Web+Applications;Always+Learning+Something+New"/>
 
 </div>
+<!-- Decorative Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <p align="center">
 
@@ -56,6 +58,8 @@ I enjoy solving real-world problems through practical projects while continuousl
 - 💼 Data Science Internship
 - 🤝 Open Source Collaboration
 - 🚀 AI & ML Projects
+<!-- Decorative Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 ---<!-- ═══════════════════════════════ TECH STACK ═══════════════════════════════ -->
 
 <div align="center">
@@ -87,7 +91,7 @@ I enjoy solving real-world problems through practical projects while continuousl
 
 ### 🛠️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,kubernets,aws,wordpress" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,kubernetes,aws,wordpress" />
 
 </div>
 
