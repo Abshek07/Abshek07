@@ -24,8 +24,6 @@ Abhishekagouda Naganagouda Patil
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Turning+Data+into+Meaningful+Insights;Building+Machine+Learning+Projects;Creating+Modern+Web+Applications;Always+Learning+Something+New"/>
 
 </div>
-<!-- Decorative Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <p align="center">
 
@@ -33,6 +31,8 @@ Abhishekagouda Naganagouda Patil
 
 <img src="https://img.shields.io/github/followers/Abshek07?logo=github&style=for-the-badge"/>
 </p>
+<!-- Decorative Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ---
 
@@ -140,6 +140,8 @@ I enjoy solving real-world problems through practical projects while continuousl
   </picture>
 </div>
 ---
+<!-- Decorative Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 <!-- ========================================================= -->
 <!--                    LET'S CONNECT                          -->
 <!-- ========================================================= -->
@@ -181,7 +183,8 @@ If my work inspires you or you'd like to discuss AI, Data Science, or technology
 <b>let's meet someday and have a real coffee instead.</b>
 
 </p>
-
+<!-- Decorative Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 ---
 <!-- ========================================================= -->
 <!--                          FOOTER                           -->
