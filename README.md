@@ -1,15 +1,16 @@
-<!-- ======================= HERO SECTION ======================= -->
+# Premium GitHub README Template
 
+> Personalized for **Abhishekagouda Naganagouda Patil**
+
+## Hero
+
+``` html
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Abhishekagouda Naganagouda Patil
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Abhishekagouda Naganagouda Patil
 </h1>
 
 <h3 align="center">
-🎓 B.Tech Computer Science (Data Science) Student
-</h3>
-
-<h3 align="center">
-Machine Learning Enthusiast • Full-Stack Developer • AI Explorer
+Data Science Student • Machine Learning Enthusiast • Full-Stack Developer
 </h3>
 
 <p align="center">
@@ -17,398 +18,62 @@ Machine Learning Enthusiast • Full-Stack Developer • AI Explorer
 </p>
 
 <p align="center">
-
-<a href="https://portfolioabhi-brown.vercel.app/">
-<img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Abshek07">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
+<a href="https://portfolioabhi-brown.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/></a>
+<a href="https://github.com/Abshek07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/abhishek1407patil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:itsvgh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
 </p>
+```
 
----
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> About Me
+## About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+-   🎓 B.Tech Computer Science (Data Science), GM University
+-   💼 Data Science Intern -- Evoastra
+-   🤖 Passionate about AI, ML, Data Analytics & Full-Stack Development
+-   🌱 Learning Deep Learning, MLOps, AWS & Generative AI
+-   🤝 Open to internships and collaborations
 
-🎓 B.Tech Computer Science (Data Science) student at **GM University, Davanagere**
+## Tech Stack
 
-💡 Passionate about **Machine Learning**, **Artificial Intelligence**, **Data Analytics**, and **Full-Stack Development**
+Use https://skillicons.dev with: Python, Java, C, C++, HTML, CSS,
+JavaScript, React, TailwindCSS, MySQL, Git, GitHub, VS Code, Docker,
+AWS.
 
-🚀 Building intelligent software that solves real-world problems.
+## Featured Projects
 
-### Current Focus
+### 🩺 MediConnect
 
-- 🤖 Machine Learning Projects
-- 📊 Data Analytics
-- ☁️ AWS Cloud
-- 🐳 Docker & MLOps
-- 🌐 Open Source Contributions
-
-### Looking For
-
-- 💼 Data Science Internship
-- 🤝 Open Source Collaboration
-- 🚀 AI & ML Projects
-
-<br clear="right"/>
-
-<!-- ======================= TECH STACK ======================= -->
-
-## <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="25"/> Tech Stack
-
-<table align="center">
-<tr>
-<td align="center" width="100">
-
-<img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python
-
-</td>
-
-<td align="center" width="100">
-
-<img src="https://skillicons.dev/icons?i=java" width="50"/><br>Java
-
-</td>
-
-<td align="center" width="100">
-
-<img src="https://skillicons.dev/icons?i=c" width="50"/><br>C
-
-</td>
-
-<td align="center" width="100">
-
-<img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>C++
-
-</td>
-
-<td align="center" width="100">
-
-<img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML
-
-</td>
-
-<td align="center" width="100">
-
-<img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=react" width="50"/><br>React
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>Tailwind
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=docker" width="50"/><br>Docker
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=aws" width="50"/><br>AWS
-
-</td>
-
-<td align="center">
-
-📊<br>Power BI
-
-</td>
-
-<td align="center">
-
-🐼<br>Pandas
-
-</td>
-
-<td align="center">
-
-📈<br>Scikit-Learn
-
-</td>
-
-</tr>
-</table>
-
----
-<!-- ======================= FEATURED PROJECTS ======================= -->
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🩺 MediConnect Health Hub
-
-A modern healthcare platform for managing appointments, patient records, and doctor interactions.
-
-**Tech Stack**
-
-`React` `Tailwind CSS` `Firebase`
-
-🔗 **Repository**
-
-https://github.com/Abshek07/mediconnect-health-hub
-
-</td>
-
-<td width="50%">
+Repository: https://github.com/Abshek07/mediconnect-health-hub
 
 ### 😊 Sentiment Analysis
 
-Machine Learning model that classifies text sentiments using NLP techniques.
-
-**Tech Stack**
-
-`Python` `Scikit-Learn` `Pandas`
-
-🔗 **Repository**
-
-https://github.com/Abshek07/Sentiment-Analysis
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
+Repository: https://github.com/Abshek07/Sentiment-Analysis
 
 ### 📈 Anomaly Detection
 
-Machine Learning project that detects unusual patterns in datasets using statistical and ML techniques.
-
-**Tech Stack**
-
-`Python` `Machine Learning` `Pandas`
-
-🔗 **Repository**
-
-https://github.com/Abshek07/ANOMLY-DETECTION-PROJECT
-
-</td>
-
-<td width="50%">
+Repository: https://github.com/Abshek07/ANOMLY-DETECTION-PROJECT
 
 ### 🌐 Silver Jubilee Website
 
-Responsive bilingual website developed for Sri S. H. Patil Government High School.
+Repository: https://github.com/Abshek07/silver-jubilee-legacy
 
-**Tech Stack**
+## Certifications
 
-`React` `Tailwind CSS`
+-   AWS Academy Cloud Foundations
+-   Data Science Internship -- Evoastra
 
-🔗 **Repository**
+## GitHub Stats
 
-https://github.com/Abshek07/silver-jubilee-legacy
-
-🌐 **Live Website**
-
-https://portfolioabhi-brown.vercel.app/
-
-</td>
-
-</tr>
-
-</table>
-
----
-<!-- ======================= FEATURED PROJECTS ======================= -->
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🩺 MediConnect Health Hub
-
-A modern healthcare platform for managing appointments, patient records, and doctor interactions.
-
-**Tech Stack**
-
-`React` `Tailwind CSS` `Firebase`
-
-🔗 **Repository**
-
-https://github.com/Abshek07/mediconnect-health-hub
-
-</td>
-
-<td width="50%">
-
-### 😊 Sentiment Analysis
-
-Machine Learning model that classifies text sentiments using NLP techniques.
-
-**Tech Stack**
-
-`Python` `Scikit-Learn` `Pandas`
-
-🔗 **Repository**
-
-https://github.com/Abshek07/Sentiment-Analysis
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 📈 Anomaly Detection
-
-Machine Learning project that detects unusual patterns in datasets using statistical and ML techniques.
-
-**Tech Stack**
-
-`Python` `Machine Learning` `Pandas`
-
-🔗 **Repository**
-
-https://github.com/Abshek07/ANOMLY-DETECTION-PROJECT
-
-</td>
-
-<td width="50%">
-
-### 🌐 Silver Jubilee Website
-
-Responsive bilingual website developed for Sri S. H. Patil Government High School.
-
-**Tech Stack**
-
-`React` `Tailwind CSS`
-
-🔗 **Repository**
-
-https://github.com/Abshek07/silver-jubilee-legacy
-
-🌐 **Live Website**
-
-https://portfolioabhi-brown.vercel.app/
-
-</td>
-
-</tr>
-
-</table>
-
----
-<!-- ======================= CERTIFICATIONS ======================= -->
-
-## 📜 Certifications
-
-- 🏅 Data Science Internship – Evoastra
-- 🏅 AWS Academy Cloud Foundations
-- 🏅 Google Student Ambassador *(Remove this if you weren't officially selected.)*
-
----
-<!-- ======================= GITHUB STATS ======================= -->
-
-<h2 align="center">📊 GitHub Stats</h2>
-
+``` html
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abshek07&show_icons=true&theme=github_dark&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abshek07&layout=compact&theme=github_dark&hide_border=true"/>
-
 </p>
+```
 
----
-<!-- ======================= CONNECT ======================= -->
+## Connect
 
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://portfolioabhi-brown.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://github.com/Abshek07">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-⭐ Thank you for visiting my profile!
-
-<i>Building intelligent software through data and innovation.</i>
-
-</p>
+-   Portfolio: https://portfolioabhi-brown.vercel.app/
+-   LinkedIn: https://www.linkedin.com/in/abhishek1407patil/
+-   GitHub: https://github.com/Abshek07
+-   Email: itsvgh@gmail.com
