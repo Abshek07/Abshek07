@@ -36,6 +36,37 @@ Abhishekagouda Naganagouda Patil
 <!-- Decorative Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
+
+## <img src="https://img.icons8.com/fluency/30/user-male-circle.png" width="28"/> About Me
+
+<img align="right" alt="Coder" width="330" src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/coderman.gif">
+
+```yaml
+Name        : Abhishekagouda Naganagouda Patil
+Location    : Karnataka, India 🇮🇳
+University  : GM University
+Degree      : B.Tech Computer Science (Data Science)
+Focus       : Machine Learning | AI | Full Stack
+Status      : Looking for Internship 🚀
+```
+
+- 🎓 Pursuing **B.Tech Computer Science (Data Science)**
+
+- 🤖 Passionate about **Machine Learning & Artificial Intelligence**
+
+- 💻 Building **Full Stack Web Applications**
+
+- 📊 Exploring **Data Analytics, NLP and MLOps**
+
+- ☁️ Learning **AWS, Docker & Cloud Computing**
+
+- 🌱 Open Source enthusiast
+
+- 💼 Looking for **Data Science / AI Internships**
+
+- ⚡ Fun Fact: *Turning coffee into code since college.*
+
+
 <table>
 <tr>
 
