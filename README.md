@@ -31,8 +31,8 @@ Hi 👋 I'm Abhishekagouda Naganagouda Patil
 
 <td width="65%" valign="top">
 
-<h2>
-<img src="https://img.icons8.com/fluency/30/user-male-circle.png"/>
+<h2 align="center">
+<img src="https://img.icons8.com/fluency/30/user-male-circle.png" width="28"/>
 About Me
 </h2>
 
@@ -106,8 +106,6 @@ I enjoy solving real-world problems through practical projects while continuousl
 </tr>
 
 </table>
-
-<br>
 ---
 <!-- ========================================================= -->
 <!--                  GITHUB STATISTICS                        -->
@@ -138,26 +136,27 @@ I enjoy solving real-world problems through practical projects while continuousl
        alt="Coder"/>
 </p>
 
+```html
 <p align="center">
 
-
 <a href="https://portfolioabhi-brown.vercel.app/">
-<img src="https://img.shields.io/badge/🌐 Portfolio-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Abshek07">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/abhishek1407patil/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:itsvgh@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
+```
 
 <p align="center">
 
