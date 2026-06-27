@@ -7,8 +7,10 @@
 <img src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/octo.gif"
 width="150"/>
 
-<h1>
-Hi 👋 I'm Abhishekagouda Naganagouda Patil
+<h1 align="center">
+Hi 👋 I'm
+<br>
+Abhishekagouda Naganagouda Patil
 </h1>
 
 <h3>
@@ -109,7 +111,7 @@ I enjoy solving real-world problems through practical projects while continuousl
 </p>
 
 <br>
-
+---
 </td>
 
 </tr>
@@ -167,11 +169,11 @@ I enjoy solving real-world problems through practical projects while continuousl
 
 <p align="center">
 
-I don't have a **Buy Me a Coffee** page.
+☕ <b>I don't have a Buy Me a Coffee page.</b>
 
-If my projects interest you, or you'd like to discuss Data Science, AI, Open Source, or technology in general...
+If my work inspires you or you'd like to discuss AI, Data Science, or technology,
 
-<b>Let's meet someday and have a real coffee instead.</b> ☕
+<b>let's meet someday and have a real coffee instead.</b>
 
 </p>
 
