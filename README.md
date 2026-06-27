@@ -31,8 +31,6 @@ Abhishekagouda Naganagouda Patil
 
 <img src="https://img.shields.io/github/followers/Abshek07?logo=github&style=for-the-badge"/>
 </p>
-<!-- Decorative Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ---
 <!-- Decorative Divider -->
@@ -73,8 +71,6 @@ I enjoy solving real-world problems through practical projects while continuousl
 <img src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/coderman.gif" width="320"/>
 
 </td>
-
-
 </tr>
 </table>
 
