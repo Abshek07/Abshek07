@@ -92,7 +92,7 @@ I enjoy solving real-world problems through practical projects while continuousl
 </div>
 
 <!-- Decorative Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:1A2980,100:26D0CE&height=100&section=header"/>
 </td>
 
 </tr>
