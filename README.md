@@ -118,15 +118,6 @@ I enjoy solving real-world problems through practical projects while continuousl
 <!-- ========================================================= -->
 <!--                  GITHUB STATISTICS                        -->
 <!-- ========================================================= -->
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abshek07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abshek07&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 <p align="center">
   <i>Learning one commit at a time 🚀</i>
 </p>
