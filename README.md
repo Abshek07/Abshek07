@@ -174,6 +174,20 @@ I enjoy solving real-world problems through practical projects while continuousl
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abshek07&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 </p>
+
+<!-- ═══════════════════════════════ SNAKE ═══════════════════════════════ -->
+
+<div align="center">
+  <h2>🐍 Watch my contributions get eaten!</h2>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg" />
+    <img alt="github-snake" src="./dist/github-snake-dark.svg" width="90%" />
+  </picture>
+</div>
 ---
 <!-- ========================================================= -->
 <!--                    LET'S CONNECT                          -->
