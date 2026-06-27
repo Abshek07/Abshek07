@@ -92,7 +92,7 @@ I enjoy solving real-world problems through practical projects while continuousl
 </div>
 
 <!-- Decorative Divider -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </td>
 
 </tr>
