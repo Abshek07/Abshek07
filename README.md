@@ -39,120 +39,18 @@ Abhishekagouda Naganagouda Patil
 
 ## <img src="https://img.icons8.com/fluency/30/user-male-circle.png" width="28"/> About Me
 
+<img align="right" src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/coderman.gif" width="330"/>
 
-## <img src="https://img.icons8.com/fluency/30/user-male-circle.png" width="28"/> About Me
-
-<img align="right" width="330" src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/coderman.gif"/>
-
-### 📂 Explorer
-
-```text
-📂 ABOUT_ME
-│
-├── 👤 profile.json
-├── 🎓 education.md
-├── 💼 internship.txt
-├── 🚀 current_focus.py
-├── 🧠 interests.yaml
-├── 🛠️ tech_stack.json
-└── 📬 contact.md
-```
-
-### 📄 profile.json
-
-```json
-{
-  "name": "Abhishekagouda Naganagouda Patil",
-  "role": "B.Tech Computer Science (Data Science)",
-  "university": "GM University, Davanagere",
-  "location": "Karnataka, India",
-  "status": "Open for Internship",
-  "specialization": [
-    "Machine Learning",
-    "Artificial Intelligence",
-    "Data Science",
-    "Full Stack Development"
-  ]
-}
-```
-
-### 🚀 current_focus.py
-
-```python
-class Abhishek:
-
-    learning = [
-        "Machine Learning",
-        "Deep Learning",
-        "AWS Cloud",
-        "Docker",
-        "MLOps"
-    ]
-
-    building = [
-        "AI Projects",
-        "React Applications",
-        "Data Science Projects"
-    ]
-
-    goal = "Become an AI Engineer & Data Scientist"
-```
-
-<br clear="right"/>
-
-<img align="right" alt="Coder" width="330" src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/coderman.gif">
-
-```yaml
-Name        : Abhishekagouda Naganagouda Patil
-Location    : Karnataka, India 🇮🇳
-University  : GM University
-Degree      : B.Tech Computer Science (Data Science)
-Focus       : Machine Learning | AI | Full Stack
-Status      : Looking for Internship 🚀
-```
-
-- 🎓 Pursuing **B.Tech Computer Science (Data Science)**
-
-- 🤖 Passionate about **Machine Learning & Artificial Intelligence**
-
-- 💻 Building **Full Stack Web Applications**
-
-- 📊 Exploring **Data Analytics, NLP and MLOps**
-
-- ☁️ Learning **AWS, Docker & Cloud Computing**
-
-- 🌱 Open Source enthusiast
-
-- 💼 Looking for **Data Science / AI Internships**
-
-- ⚡ Fun Fact: *Turning coffee into code since college.*
-
-
-<table>
-<tr>
-
-<td width="65%" valign="top">
-
-<h2>
-<img src="https://img.icons8.com/fluency/30/user-male-circle.png" width="28"/>
-About Me
-</h2>
-
-<div style="display:flex;justify-content:space-between;align-items:flex-start;">
-
-<div style="width:60%;">
-<div>
-
-<img src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/coderman.gif" width="330"/>
-
-</div>
-
-</div>
-</div>
-
-I'm a **B.Tech Computer Science (Data Science)** student at **GM University, Davanagere**, passionate about building intelligent software using **Machine Learning**, **Artificial Intelligence**, and **Full-Stack Development**.
+I'm a **B.Tech Computer Science (Data Science)** student at **GM University, Davanagere**, passionate about building intelligent software using **Machine Learning**, **Artificial Intelligence**, and **Full Stack Development**.
 
 I enjoy solving real-world problems through practical projects while continuously learning modern technologies.
+
+```yaml
+🎓 Education  : B.Tech Computer Science (Data Science)
+🏫 University : GM University, Davanagere
+📍 Location   : Karnataka, India 🇮🇳
+💼 Looking For: Data Science / AI Internships
+```
 
 ### 🚀 Current Focus
 
@@ -162,15 +60,11 @@ I enjoy solving real-world problems through practical projects while continuousl
 - 🐳 Docker & MLOps
 - 🌐 Open Source
 
-### 🎯 Looking For
+### 🎯 Career Goal
 
-- 💼 Data Science Internship
-- 🤝 Open Source Collaboration
-- 🚀 AI & ML Projects
+To become an **AI Engineer** by building impactful Machine Learning solutions and continuously improving my software development skills.
 
-</td>
-</tr>
-</table>
+<br clear="right"/>
 <!-- Decorative Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 ---
