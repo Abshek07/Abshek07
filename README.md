@@ -56,12 +56,7 @@ I enjoy solving real-world problems through practical projects while continuousl
 - 💼 Data Science Internship
 - 🤝 Open Source Collaboration
 - 🚀 AI & ML Projects
-
-</td>
-
-<td width="35%" align="center">
-
-<br><br>
+---
 <h2 align="center">🛠 Tech Stack</h2>
 
 <br>
@@ -104,7 +99,6 @@ I enjoy solving real-world problems through practical projects while continuousl
 
 <br>
 ---
----
 <!-- ========================================================= -->
 <!--                  GITHUB STATISTICS                        -->
 <!-- ========================================================= -->
@@ -128,8 +122,6 @@ I enjoy solving real-world problems through practical projects while continuousl
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abshek07&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 </p>
-
----
 ---
 <!-- ========================================================= -->
 <!--                    LET'S CONNECT                          -->
