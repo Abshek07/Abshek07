@@ -31,7 +31,10 @@ Hi 👋 I'm Abhishekagouda Naganagouda Patil
 
 <td width="65%" valign="top">
 
-## 👨‍💻 About Me
+<h2>
+<img src="https://img.icons8.com/fluency/30/user-male-circle.png"/>
+About Me
+</h2>
 
 I'm a **B.Tech Computer Science (Data Science)** student at **GM University, Davanagere**, passionate about building intelligent software using **Machine Learning**, **Artificial Intelligence**, and **Full-Stack Development**.
 
