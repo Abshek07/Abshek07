@@ -130,7 +130,25 @@ I enjoy solving real-world problems through practical projects while continuousl
 <p align="center">
   <i>Learning one commit at a time 🚀</i>
 </p>
+<h2 align="center">📊 GitHub Statistics</h2>
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abshek07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abshek07&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abshek07&theme=tokyonight&hide_border=true"/>
+</p>
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abshek07&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+</p>
+
+---
 ---
 <!-- ========================================================= -->
 <!--                    LET'S CONNECT                          -->
