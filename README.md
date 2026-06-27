@@ -59,45 +59,52 @@ I enjoy solving real-world problems through practical projects while continuousl
 ---
 <h2 align="center">🛠 Tech Stack</h2>
 
-<br>
+<table align="center">
+<tr>
 
-<h3 align="center">💻 Languages</h3>
+<td align="center" valign="top">
 
-<p align="center">
+<h4>💻 Programming</h4>
+
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
-</p>
 
-<h3 align="center">🌐 Frontend</h3>
+</td>
 
-<p align="center">
+<td align="center" valign="top">
+
+<h4>🌐 Frontend</h4>
+
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" />
-</p>
 
-<h3 align="center">🗄️ Database & Cloud</h3>
+</td>
 
-<p align="center">
+<td align="center" valign="top">
+
+<h4>🗄️ Database & Cloud</h4>
+
 <img src="https://skillicons.dev/icons?i=mysql,aws" />
-</p>
 
-<h3 align="center">🛠️ Tools</h3>
+</td>
 
-<p align="center">
+<td align="center" valign="top">
+
+<h4>🛠️ Tools</h4>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
-</p>
 
-<h3 align="center">📊 Data Science</h3>
+</td>
 
-<p align="center">
+<td align="center" valign="top">
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<h4>📊 Data Science</h4>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,sklearn,powerbi" />
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</td>
 
-</p>
+</tr>
+</table>
 
-<br>
 ---
 <!-- ========================================================= -->
 <!--                  GITHUB STATISTICS                        -->
