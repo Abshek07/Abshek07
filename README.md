@@ -81,7 +81,7 @@ I enjoy solving real-world problems through practical projects while continuousl
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=react,html5,css3,nodejs,flask,fastapi,mysql,mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=react,html,css,nodejs,flask,fastapi,mysql,mongodb,postgres" />
 
 <br><br>
 
@@ -92,7 +92,7 @@ I enjoy solving real-world problems through practical projects while continuousl
 </div>
 
 <!-- Decorative Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </td>
 
 </tr>
