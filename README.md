@@ -273,3 +273,142 @@ https://portfolioabhi-brown.vercel.app/
 </table>
 
 ---
+<!-- ======================= FEATURED PROJECTS ======================= -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🩺 MediConnect Health Hub
+
+A modern healthcare platform for managing appointments, patient records, and doctor interactions.
+
+**Tech Stack**
+
+`React` `Tailwind CSS` `Firebase`
+
+🔗 **Repository**
+
+https://github.com/Abshek07/mediconnect-health-hub
+
+</td>
+
+<td width="50%">
+
+### 😊 Sentiment Analysis
+
+Machine Learning model that classifies text sentiments using NLP techniques.
+
+**Tech Stack**
+
+`Python` `Scikit-Learn` `Pandas`
+
+🔗 **Repository**
+
+https://github.com/Abshek07/Sentiment-Analysis
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📈 Anomaly Detection
+
+Machine Learning project that detects unusual patterns in datasets using statistical and ML techniques.
+
+**Tech Stack**
+
+`Python` `Machine Learning` `Pandas`
+
+🔗 **Repository**
+
+https://github.com/Abshek07/ANOMLY-DETECTION-PROJECT
+
+</td>
+
+<td width="50%">
+
+### 🌐 Silver Jubilee Website
+
+Responsive bilingual website developed for Sri S. H. Patil Government High School.
+
+**Tech Stack**
+
+`React` `Tailwind CSS`
+
+🔗 **Repository**
+
+https://github.com/Abshek07/silver-jubilee-legacy
+
+🌐 **Live Website**
+
+https://portfolioabhi-brown.vercel.app/
+
+</td>
+
+</tr>
+
+</table>
+
+---
+<!-- ======================= CERTIFICATIONS ======================= -->
+
+## 📜 Certifications
+
+- 🏅 Data Science Internship – Evoastra
+- 🏅 AWS Academy Cloud Foundations
+- 🏅 Google Student Ambassador *(Remove this if you weren't officially selected.)*
+
+---
+<!-- ======================= GITHUB STATS ======================= -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abshek07&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abshek07&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+<!-- ======================= CONNECT ======================= -->
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://portfolioabhi-brown.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/Abshek07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thank you for visiting my profile!
+
+<i>Building intelligent software through data and innovation.</i>
+
+</p>
