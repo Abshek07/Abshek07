@@ -1,34 +1,46 @@
 <!-- ========================================================= -->
-<!--                       HERO SECTION                         -->
+<!-- HERO SECTION -->
 <!-- ========================================================= -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/octo.gif" width="150">
-</div>
-# Welcome To My GitHub Profile !
-# Welcome To My GitHub Profile !
-<br/>
-<div align="center">
-<img src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/screen.gif"  alt="Abhishekagouda Patil Typer">
-</div>
-<br/>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/octo.gif" width="150" alt="Octocat"/>
+
+</div>
+
+# Welcome To My GitHub Profile!
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/screen.gif" alt="Typing GIF"/>
+
+</div>
+
+<br>
 
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> I'm <br/>
-  <b>Abhishekagouda Naganagouda Patil</b>
+
+Hi 👋 I'm
+
+<br>
+
+Abhishekagouda Naganagouda Patil
+
 </h1>
 
-<h3 align="center"> 
+<h3 align="center">
+
 🎓 B.Tech Computer Science (Data Science)
+
 </h3>
 
 <h3 align="center">
+
 Machine Learning Enthusiast • Full-Stack Developer • AI Learner
+
 </h3>
-
-<p align="center">
-
-
 
 </p>
 
