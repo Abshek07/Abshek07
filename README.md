@@ -69,16 +69,6 @@ I enjoy solving real-world problems through practical projects while continuousl
 
 
 <br><br>
-
-```html
-<div align="center">
-
-<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif?raw=true"
-     alt="Coder"
-     width="420"/>
-
-</div>
-
 <br>
 
 <img src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/coderman.gif" width="420"/>
