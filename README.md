@@ -73,9 +73,6 @@ I enjoy solving real-world problems through practical projects while continuousl
 </td>
 </tr>
 </table>
-
-<!-- Decorative Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 <!-- Decorative Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 ---
