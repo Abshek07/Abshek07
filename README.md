@@ -58,6 +58,52 @@ I enjoy solving real-world problems through practical projects while continuousl
 - 💼 Data Science Internship
 - 🤝 Open Source Collaboration
 - 🚀 AI & ML Projects
+
+
+<!-- Decorative Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<table>
+<tr>
+
+<td width="65%" valign="top">
+
+<h2>
+<img src="https://img.icons8.com/fluency/30/user-male-circle.png" width="28"/>
+About Me
+</h2>
+
+I'm a **B.Tech Computer Science (Data Science)** student at **GM University, Davanagere**, passionate about building intelligent software using **Machine Learning**, **Artificial Intelligence**, and **Full-Stack Development**.
+
+I enjoy solving real-world problems through practical projects while continuously learning modern technologies.
+
+### 🚀 Current Focus
+
+- 🤖 Machine Learning
+- 📊 Data Analytics
+- ☁️ AWS Cloud
+- 🐳 Docker & MLOps
+- 🌐 Open Source
+
+### 🎯 Looking For
+
+- 💼 Data Science Internship
+- 🤝 Open Source Collaboration
+- 🚀 AI & ML Projects
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/coderman.gif" width="320"/>
+
+</td>
+
+</tr>
+</table>
+
+<!-- Decorative Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 <!-- Decorative Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 ---
@@ -188,6 +234,14 @@ If my work inspires you or you'd like to discuss AI, Data Science, or technology
 
 <b>let's meet someday and have a real coffee instead.</b>
 
+</p>
+
+<h1 align="center">🌐 Connect With Me</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/connected.gif"
+       width="380"
+       alt="Connected"/>
 </p>
 <!-- Decorative Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
