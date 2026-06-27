@@ -67,7 +67,6 @@ I enjoy solving real-world problems through practical projects while continuousl
 <td width="35%" align="center">
 
 <br><br>
-```html
 <h2 align="center">🛠 Tech Stack</h2>
 
 <br>
@@ -109,7 +108,6 @@ I enjoy solving real-world problems through practical projects while continuousl
 </p>
 
 <br>
-```
 
 
 ---
