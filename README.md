@@ -22,8 +22,18 @@ Hi 👋 I'm Abhishekagouda Naganagouda Patil
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Turning+Data+into+Meaningful+Insights;Building+Machine+Learning+Projects;Creating+Modern+Web+Applications;Always+Learning+Something+New"/>
 
 </div>
+```html
+<p align="center">
 
----
+<img src="https://komarev.com/ghpvc/?username=Abshek07&label=Profile%20Views&color=22C55E&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Abshek07?logo=github&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Abshek07?affiliations=OWNER&style=for-the-badge"/>
+
+</p>
+```
+
 ---
 
 <table>
