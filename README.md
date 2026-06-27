@@ -52,7 +52,7 @@ I enjoy solving real-world problems through practical projects while continuousl
 
 <td width="35%" align="center">
 
-<img src="https://github.com/Abshek07.png" width="220" style="border-radius:50%;" />
+
 
 <br><br>
 
