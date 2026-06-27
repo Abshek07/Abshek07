@@ -65,7 +65,7 @@ I enjoy solving real-world problems through practical projects while continuousl
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
-    &nbsp;Tech Stack & Tools
+    &nbsp;Tech Stack
   </h2>
 </div>
 
@@ -96,7 +96,7 @@ I enjoy solving real-world problems through practical projects while continuousl
 </div>
 
 <!-- Decorative Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-8f3e3b74-2a7d-4d89-bc5b-6d4d0f1e8d62.gif" width="100%">
 </td>
 
 </tr>
@@ -108,7 +108,12 @@ I enjoy solving real-world problems through practical projects while continuousl
 <p align="center">
   <i>Learning one commit at a time 🚀</i>
 </p>
-<h2 align="center">📊 GitHub Statistics</h2>
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
+    &nbsp;GitHub Statistics
+  </h2>
+</div>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abshek07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
