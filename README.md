@@ -35,31 +35,6 @@ Abhishekagouda Naganagouda Patil
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ---
-
-<h2 align="center">
-<img src="https://img.icons8.com/fluency/30/user-male-circle.png" width="28"/>
-About Me
-</h2>
-
-I'm a **B.Tech Computer Science (Data Science)** student at **GM University, Davanagere**, passionate about building intelligent software using **Machine Learning**, **Artificial Intelligence**, and **Full-Stack Development**.
-
-I enjoy solving real-world problems through practical projects while continuously learning modern technologies.
-
-### 🚀 Current Focus
-
-- 🤖 Machine Learning
-- 📊 Data Analytics
-- ☁️ AWS Cloud
-- 🐳 Docker & MLOps
-- 🌐 Open Source
-
-### 🎯 Looking For
-
-- 💼 Data Science Internship
-- 🤝 Open Source Collaboration
-- 🚀 AI & ML Projects
-
-
 <!-- Decorative Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
@@ -93,11 +68,12 @@ I enjoy solving real-world problems through practical projects while continuousl
 
 </td>
 
-<td width="35%" align="center">
+<td width="35%" align="center" valign="top">
 
 <img src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/coderman.gif" width="320"/>
 
 </td>
+
 
 </tr>
 </table>
