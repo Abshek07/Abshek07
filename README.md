@@ -238,24 +238,26 @@ I enjoy solving real-world problems through practical projects while continuousl
   <i>Consistency beats intensity. Every project is another step forward.</i>
 </p>
 
----
 <!-- ========================================================= -->
-<!--                    CONNECT WITH ME                        -->
+<!--                    LET'S CONNECT                          -->
 <!-- ========================================================= -->
 
+<br>
 <h1 align="center">🌐 Connect With Me</h1>
+
+<img src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/coderman.gif" width="420"/>
 
 <p align="center">
 
-<a href="https://portfolioabhi-brown.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge"/>
+<a href="https://portfolioabhi-brown.vercel.app/">
+<img src="https://img.shields.io/badge/🌐 Portfolio-black?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Abshek07" target="_blank">
+<a href="https://github.com/Abshek07">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/abhishek1407patil/" target="_blank">
+<a href="https://www.linkedin.com/in/abhishek1407patil/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -264,11 +266,9 @@ I enjoy solving real-world problems through practical projects while continuousl
 </a>
 
 </p>
+```
 
----
-<!-- ========================================================= -->
-<!--                    LET'S CONNECT                          -->
-<!-- ========================================================= -->
+
 
 <h1 align="center">☕ Let's Connect</h1>
 
