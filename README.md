@@ -14,10 +14,6 @@ Abhishekagouda Naganagouda Patil
 </h1>
 
 <h3>
-🎓 B.Tech Computer Science (Data Science)
-</h3>
-
-<h3>
 🤖 Machine Learning Enthusiast • 💻 Full Stack Developer • 🚀 AI Explorer
 </h3>
 
@@ -44,13 +40,6 @@ Abhishekagouda Naganagouda Patil
 I'm a **B.Tech Computer Science (Data Science)** student at **GM University, Davanagere**, passionate about building intelligent software using **Machine Learning**, **Artificial Intelligence**, and **Full Stack Development**.
 
 I enjoy solving real-world problems through practical projects while continuously learning modern technologies.
-
-```yaml
-🎓 Education  : B.Tech Computer Science (Data Science)
-🏫 University : GM University, Davanagere
-📍 Location   : Karnataka, India 🇮🇳
-💼 Looking For: Data Science / AI Internships
-```
 
 ### 🚀 Current Focus
 
