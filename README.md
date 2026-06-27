@@ -17,7 +17,7 @@ Machine Learning Enthusiast • Full-Stack Developer • AI Learner
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1200&color=22C55E&center=true&vCenter=true&width=720&lines=Turning+Data+into+Meaningful+Insights.;Building+Machine+Learning+Projects.;Developing+Modern+Web+Applications.;Always+Learning+Something+New."/>
+
 
 </p>
 
