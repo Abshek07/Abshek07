@@ -39,6 +39,67 @@ Abhishekagouda Naganagouda Patil
 
 ## <img src="https://img.icons8.com/fluency/30/user-male-circle.png" width="28"/> About Me
 
+
+## <img src="https://img.icons8.com/fluency/30/user-male-circle.png" width="28"/> About Me
+
+<img align="right" width="330" src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/coderman.gif"/>
+
+### 📂 Explorer
+
+```text
+📂 ABOUT_ME
+│
+├── 👤 profile.json
+├── 🎓 education.md
+├── 💼 internship.txt
+├── 🚀 current_focus.py
+├── 🧠 interests.yaml
+├── 🛠️ tech_stack.json
+└── 📬 contact.md
+```
+
+### 📄 profile.json
+
+```json
+{
+  "name": "Abhishekagouda Naganagouda Patil",
+  "role": "B.Tech Computer Science (Data Science)",
+  "university": "GM University, Davanagere",
+  "location": "Karnataka, India",
+  "status": "Open for Internship",
+  "specialization": [
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Data Science",
+    "Full Stack Development"
+  ]
+}
+```
+
+### 🚀 current_focus.py
+
+```python
+class Abhishek:
+
+    learning = [
+        "Machine Learning",
+        "Deep Learning",
+        "AWS Cloud",
+        "Docker",
+        "MLOps"
+    ]
+
+    building = [
+        "AI Projects",
+        "React Applications",
+        "Data Science Projects"
+    ]
+
+    goal = "Become an AI Engineer & Data Scientist"
+```
+
+<br clear="right"/>
+
 <img align="right" alt="Coder" width="330" src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/coderman.gif">
 
 ```yaml
