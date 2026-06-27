@@ -136,7 +136,6 @@ I enjoy solving real-world problems through practical projects while continuousl
        alt="Coder"/>
 </p>
 
-```html
 <p align="center">
 
 <a href="https://portfolioabhi-brown.vercel.app/">
@@ -156,7 +155,6 @@ I enjoy solving real-world problems through practical projects while continuousl
 </a>
 
 </p>
-```
 
 <p align="center">
 
