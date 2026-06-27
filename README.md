@@ -2,13 +2,6 @@
 <!-- ========================================================= -->
 <!-- HERO SECTION -->
 <!-- ========================================================= -->
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/octo.gif" width="150" alt="Octocat"/>
-
-</div>
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/octo.gif"
@@ -31,31 +24,6 @@ Hi 👋 I'm Abhishekagouda Naganagouda Patil
 </div>
 
 ---
-
-
-<h1 align="center">
-
-Hi 👋 I'm
-
-<br>
-
-Abhishekagouda Naganagouda Patil
-
-</h1>
-
-<h3 align="center">
-
-🎓 B.Tech Computer Science (Data Science)
-
-</h3>
-
-<h3 align="center">
-
-Machine Learning Enthusiast • Full-Stack Developer • AI Learner
-
-</h3>
-
-
 ---
 
 <table>
