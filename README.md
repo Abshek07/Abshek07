@@ -9,7 +9,28 @@
 
 </div>
 
-# Welcome To My GitHub Profile!
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/octo.gif"
+width="150"/>
+
+<h1>
+Hi 👋 I'm Abhishekagouda Naganagouda Patil
+</h1>
+
+<h3>
+🎓 B.Tech Computer Science (Data Science)
+</h3>
+
+<h3>
+🤖 Machine Learning Enthusiast • 💻 Full Stack Developer • 🚀 AI Explorer
+</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Turning+Data+into+Meaningful+Insights;Building+Machine+Learning+Projects;Creating+Modern+Web+Applications;Always+Learning+Something+New"/>
+
+</div>
+
+---
 
 
 <h1 align="center">
