@@ -46,6 +46,46 @@ Abhishekagouda Naganagouda Patil
 About Me
 </h2>
 
+<h2>
+<img src="https://img.icons8.com/fluency/30/user-male-circle.png" width="28"/>
+About Me
+</h2>
+
+<div style="display:flex;justify-content:space-between;align-items:flex-start;">
+
+<div style="width:60%;">
+
+```yaml
+Name        : Abhishekagouda Naganagouda Patil
+Located In  : Karnataka, India 🇮🇳
+University  : GM University
+Degree      : B.Tech Computer Science (Data Science)
+Current     : Data Science Student
+Passion     : AI • Machine Learning • Full Stack
+```
+
+- 🎓 Pursuing B.Tech Computer Science (Data Science)
+
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+
+- 💻 Building Full Stack Web Applications
+
+- ☁️ Learning AWS, Docker & MLOps
+
+- 🚀 Looking for Data Science Internships
+
+- ⚡ Fun Fact: I love turning ideas into software.
+
+</div>
+
+<div>
+
+<img src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/coderman.gif" width="330"/>
+
+</div>
+
+</div>
+
 I'm a **B.Tech Computer Science (Data Science)** student at **GM University, Davanagere**, passionate about building intelligent software using **Machine Learning**, **Artificial Intelligence**, and **Full-Stack Development**.
 
 I enjoy solving real-world problems through practical projects while continuously learning modern technologies.
