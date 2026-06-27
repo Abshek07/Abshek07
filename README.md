@@ -97,7 +97,7 @@ I enjoy solving real-world problems through practical projects while continuousl
 </div>
 
 <!-- Decorative Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-8f3e3b74-2a7d-4d89-bc5b-6d4d0f1e8d62.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </td>
 
 </tr>
