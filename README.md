@@ -129,10 +129,14 @@ I enjoy solving real-world problems through practical projects while continuousl
 
 <br>
 <h1 align="center">🌐 Connect With Me</h1>
-
-<img src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/coderman.gif" width="420"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/coderman.gif"
+       width="420"
+       alt="Coder"/>
+</p>
 
 <p align="center">
+
 
 <a href="https://portfolioabhi-brown.vercel.app/">
 <img src="https://img.shields.io/badge/🌐 Portfolio-black?style=for-the-badge"/>
