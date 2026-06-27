@@ -196,20 +196,26 @@ I enjoy solving real-world problems through practical projects while continuousl
 
 ---
 <!-- ========================================================= -->
-<!--                     GITHUB STATISTICS                     -->
+<!--                  GITHUB STATISTICS                        -->
 <!-- ========================================================= -->
 
-<h1 align="center">📊 GitHub Statistics</h1>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abshek07&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abshek07&layout=compact&theme=github_dark&hide_border=true" />
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=Abshek07&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abshek07&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <i>Consistency beats intensity. Every project is another step forward.</i>
+<i>Consistency beats intensity. Every project is another step forward.</i>
 </p>
 
+---
 <!-- ========================================================= -->
 <!--                    LET'S CONNECT                          -->
 <!-- ========================================================= -->
@@ -239,11 +245,6 @@ I enjoy solving real-world problems through practical projects while continuousl
 
 </p>
 ```
-
-
-
-<h1 align="center">☕ Let's Connect</h1>
-
 <p align="center">
 
 I don't have a **Buy Me a Coffee** page.
