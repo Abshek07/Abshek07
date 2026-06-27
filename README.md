@@ -34,7 +34,6 @@ Machine Learning Enthusiast • Full-Stack Developer • AI Learner
 
 </h3>
 
-</p>
 
 ---
 
@@ -68,132 +67,50 @@ I enjoy solving real-world problems through practical projects while continuousl
 <td width="35%" align="center">
 
 <br><br>
+```html
+<h2 align="center">🛠 Tech Stack</h2>
 
-# 🛠 Tech Stack
+<br>
 
-<table align="center">
+<h3 align="center">💻 Languages</h3>
 
-<tr>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
+</p>
 
-<td align="center" width="90">
+<h3 align="center">🌐 Frontend</h3>
 
-<img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" />
+</p>
 
-</td>
+<h3 align="center">🗄️ Database & Cloud</h3>
 
-<td align="center" width="90">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,aws" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java
+<h3 align="center">🛠️ Tools</h3>
 
-</td>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+</p>
 
-<td align="center" width="90">
+<h3 align="center">📊 Data Science</h3>
 
-<img src="https://skillicons.dev/icons?i=c" width="48"/><br>C
+<p align="center">
 
-</td>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<td align="center" width="90">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-</td>
+</p>
 
-<td align="center" width="90">
+<br>
+```
 
-<img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML
-
-</td>
-
-<td align="center" width="90">
-
-<img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=javascript" width="48"/><br>JavaScript
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=react" width="48"/><br>React
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=aws" width="48"/><br>AWS
-
-</td>
-
-<td align="center">
-
-📊<br>Power BI
-
-</td>
-
-<td align="center">
-
-🐼<br>Pandas
-
-</td>
-
-<td align="center">
-
-📈<br>Scikit-Learn
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 <!-- ========================================================= -->
