@@ -8,7 +8,7 @@
 # Welcome To My GitHub Profile !
 <br/>
 <div align="center">
-<img src="https://github.com/Abshek07/Abshek07/blob/master/screen.gif" alt="Abhishekagouda Patil Typer" />
+<img src="https://raw.githubusercontent.com/Abshek07/Abshek07/main/screen.gif"  alt="Abhishekagouda Patil Typer">
 </div>
 <br/>
 
