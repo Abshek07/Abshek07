@@ -76,7 +76,7 @@ To become an **AI Engineer** by building impactful Machine Learning solutions an
 
 ### 🧠 Data Science & ML
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn,seaborn,tensorflow,jupyter,matplotlib" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn,seaborn,tensorflow,jupyter,matplotlib,pytorch" />
 
 <br><br>
 
