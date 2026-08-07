@@ -205,6 +205,11 @@ If my work inspires you or you'd like to discuss AI, Data Science, or technology
 <h3 align="center">
 
 ⭐ Thanks for visiting my GitHub Profile ⭐
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repository, make improvements, and submit a Pull Request.
+
+If you find any issues or have suggestions, please open an issue.
 
 </h3>
 
